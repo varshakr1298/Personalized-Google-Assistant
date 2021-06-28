@@ -1,0 +1,6 @@
+Monday:Yoga 5,30 to 7AM Optimization Techniques 9,45 to 10,45AM JAVA 11 to 12 Software Engineering 12to1PM Maths 2to3PM DBMS 3,15to4,15PM  
+Tuesday:Yoga 5,30 to 7AM Software Engineering 11 to 12 Maths 12 to 1 PM
+Wednesday:Yoga 5,30 to 7AM Software Engineering 9,45 to 10,45 Optimization Techniques 11 to 12 Noon OOAD 1 to 2 PM DBMS 2 to 3 PM
+Thursday:Yoga 5,30 to 7AM DBMS 8,45 to 9,45 AM Maths 9:45 to 10:45 AM OOAD 2 to 3 PM Optimization Techniques 3,15 to 4,15 PM
+Friday:Yoga 5,30 to 7AM Software Engineering 11 to 12 Noon JAVA 12 to 1 PM Optimization Techniques 2 to 3 PM DBMS 3,15 to 4,15 PM
+Saturday:Yoga 5,30 to 7AM Software Engineering 8,45 to 9,45 AM OOAD 9,45 to 10,45 AM Maths 11 to 12 Noon JAVA 1 to 2 PM 
